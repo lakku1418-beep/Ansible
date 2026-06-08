@@ -1,0 +1,6 @@
+- name: ping the servers
+  hosts: frontend
+  tasks:
+    - name: ping the servers
+      ping:
+      

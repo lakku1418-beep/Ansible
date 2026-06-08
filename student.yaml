@@ -1,0 +1,14 @@
+- name: "sumana"
+  dob: 1988-12-13
+  mobile: 1234567890
+  address:
+   -type: "permanent"
+    apartment:101
+    street: "123 Main St"
+    city: "kolkata"
+   -type: "current"
+    apartment: 202
+    street: "456 Elm St"
+    city: "kolkata"
+    
+    
