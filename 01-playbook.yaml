@@ -1,6 +1,6 @@
-- name: ping the servers
+- name: demo on debug
   hosts: frontend
   tasks:
-    - name: ping the servers
-      ping:
-      
+    - name: print hello world
+      debug:
+        
